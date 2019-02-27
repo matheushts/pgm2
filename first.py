@@ -1,7 +1,7 @@
 a=input("bota algo: ")
-print a
+print (a)
 b=input("nada: ")
-print b
+print (b)
 c= a+b
-print c
+print (c)
 
